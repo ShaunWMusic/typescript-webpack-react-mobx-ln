@@ -3,7 +3,7 @@ module.exports = {
   devtool: "source-map",
   mode: "development",
   output: {
-    filename: "./dist/bundle.js",
+    filename: "./bundle.js",
   },
   resolve: {
     extensions: [".ts", ".tsx", ".js", ".jsx"]
