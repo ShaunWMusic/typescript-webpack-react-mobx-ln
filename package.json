@@ -1,0 +1,17 @@
+{
+  "name": "typescript-webpack-react-mobx-ln",
+  "scripts": {
+    "build": "webpack",
+    "start": "npm run build && open index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/react": "^16.9.3",
+    "@types/react-dom": "^15.5.10",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "ts-loader": "^6.1.2",
+    "typescript": "^3.6.3",
+    "webpack": "^4.41.0"
+  }
+}
