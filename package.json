@@ -4,7 +4,15 @@
     "build": "webpack",
     "start": "npm run build && open index.html"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@types/react": "16.9.11",
+    "@types/react-dom": "16.9.3",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "ts-loader": "6.2.1",
+    "typescript": "3.6.4",
+    "webpack": "4.41.2"
+  },
   "devDependencies": {
     "@types/react": "^16.9.3",
     "@types/react-dom": "^15.5.10",
